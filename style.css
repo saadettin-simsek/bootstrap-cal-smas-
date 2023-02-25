@@ -1,0 +1,73 @@
+.resimSlider{
+  height: 600px;
+
+}
+body{
+  padding-top: 50px;
+  font-family: 'Raleway', sans-serif;
+}
+.ana{
+  background-color: rgb(203, 203, 203,0.8);
+}
+.hakkımızda{
+  background-color:rgb(245, 244, 244);
+  border-radius: 30px;
+}
+
+.ayrac{
+  
+  border: none;
+  border-top: 3px solid rgb(4, 4, 4);
+  max-width: 250px;
+  margin: 25px  auto;
+  
+}
+.ibeyaz{
+ 
+  margin-left: -20px;
+  position: absolute;
+  font-size: 40px;
+  color: rgb(4, 4, 4);
+  margin-top: -45px
+  
+}
+.ekip{
+  position:absolute;
+  font-size: 50px;
+  margin-top: -55px;
+  margin-left:-25px;
+  background-color: white;
+
+}
+.person{
+  margin-top: 60px;
+}
+.card:hover{
+  opacity: 0.8;
+}
+
+.galeri{
+  background-color: rgb(203, 203, 203,0.8);
+
+}
+.ikonga{
+  position:absolute;
+  font-size: 50px;
+  margin-top: -55px;
+  margin-left:-25px;
+  background-color: rgb(203, 203, 203,0.8);
+
+
+}
+.figure:hover{
+  opacity: 0.8;
+}
+.ikonile{
+  position:absolute;
+  font-size: 50px;
+  margin-top: -55px;
+  margin-left:-25px;
+  background-color: white;
+  margin-bottom: 20px;
+
+}
